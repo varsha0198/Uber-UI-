@@ -1,0 +1,298 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.booking-button {
+    width: 100px;
+    padding: 8px;
+    outline: none;
+    border: 2px solid white;
+    border-radius: 50px;
+    background: transparent;
+    color: black;
+    background-color: white;
+    margin-left: 10px;
+}
+.header{
+    max-width: 100%;   
+    box-sizing: border-box;
+    height: 700px;
+    background-image: url(./images/image1.jpg);
+}
+.tab-btn-wrapper{
+    float: left;
+    margin-top: 30px;
+    width: 33%;
+    cursor: pointer;
+}
+.tab { clear: both;
+    color: #000;
+    font-weight: 500;
+    font-size: 15px;
+    padding: 0px 8px;
+    height: 24px;
+    text-decoration: none;
+    list-style: none;
+    padding-left: 26%;
+}
+.uber-booking-tab {
+    padding: 10px 5px 10px 5px;
+    width: 100%;
+    height: 50px;
+}
+.uber-booking-wrapper .tab{
+    margin-right: 20px;
+}
+.white-box{
+    background-color: white;
+    height: 550px;
+    margin-top: 50px;
+    width: 300px;
+}
+.white-box .image{
+   padding-left: 10%;
+  
+}
+.left{
+    padding-left:5%;
+}
+.heading{
+    padding-top: 20%;
+    width: 100%;
+    margin-left: 30px;
+    font-weight: 500;
+    font-size: 50px;
+}
+.heading1{
+    margin-left: 30px;
+    font-size: 17px;
+    margin-top: 30px;
+}
+.booking-button-1{
+    width: 40%;
+    border: 2px solid white;
+    height: 50px;
+    background: transparent;
+    color: white;
+    background-color: black;
+    margin-bottom: 20px;
+}
+.button{
+    margin-left: 30px;
+    margin-top: 40px;
+}
+.heading11{
+    font-size: 17px;
+    margin-left: 30px;
+    margin-top: 30px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: blue;
+}
+.border1{
+    padding-top: 60px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.border2{
+    padding-top: 10px;
+    font-size: 19px;
+}
+.booking-button-2{
+    width: 20%;
+    border: 2px solid white;
+    height: 50px;
+    background: transparent;
+    color: white;
+    background-color: black;
+    margin-bottom: 20px;
+}
+.button1{
+    margin-left: 5px;
+   
+    padding-bottom: 40px;
+}
+.border{
+    background-image:linear-gradient(#739ac0,#cc9cf1);
+    padding-bottom: 40px;
+}
+.space{
+    padding-top: 60px;
+}
+.col-md-image{
+    max-width: 100%;
+    padding-bottom: 30px;
+    height: 100%;
+}
+.padding{
+    padding-top: 15%;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+
+}
+.learn-more{
+    color: black;
+    font-size: 18px;
+   
+   
+    border: none;
+}
+.font-size{
+    padding-top:4%;
+}
+
+.bootom{
+    padding-top: 5%;
+    padding-bottom: 7%;
+}
+.top{
+    padding-bottom: 60px;
+}
+.col-head{
+    padding-bottom: 3%;
+    text-shadow: 2px 2px 4px;
+}
+.wd-100{
+    padding-top: 3%;
+    margin-left: 10px;
+}
+.wd-100-wd{
+    font-size: 16px;
+    margin-left: 10px;
+}
+.paragraph{
+   color: black;
+  padding: 4px 0 0 4px;
+  border: none;
+  margin-left: 10px;
+}
+.paragraph1{
+   margin-left: 10px;
+   
+}
+.col-md-space{
+    padding-bottom:10%;
+}
+.col-md{
+    max-width: 100%;
+    max-height: 100%;
+    padding-top:10px;
+}
+.fifth{
+    padding-bottom: 60px;
+}
+.col-background{
+    background-color: rgb(238, 236, 236);
+    padding-top: 50px;
+    padding-bottom: 60px;
+}
+.col-text{
+    padding-bottom: 30px;
+}
+.col-text-extra{
+    float: right;
+    margin-right: 70px;
+    padding-top: 10%;
+    cursor: pointer;
+}
+.col-border{
+    
+    background-color: white;
+    padding: 20px 20px 20px 20px;
+}
+.col-text-image{
+    width: 130px;
+    height: 130px;
+    cursor: pointer;
+}
+.col-md-width{
+    padding-top: 60px;
+    cursor: pointer;
+  
+}
+.col-md-width h1:hover{
+    color:rgb(47, 90, 4);
+    
+}
+.col-md-padding{
+    padding-bottom: 50px;
+}
+.footer{
+    background-color: black;
+    max-width: 100%;
+    padding-bottom: 40px;
+    max-height: 100%;
+}
+.col-link{
+   text-decoration: none;
+   list-style-type: none;
+   
+}
+.footer h4{
+    color: whitesmoke;
+    padding-top: 80px;
+   
+} 
+.footer p{
+    color: whitesmoke;
+    margin-top: 30px;
+    font-size: 18px;
+}
+.footer h5{
+    color: whitesmoke;
+    padding-top: 50px;
+}
+.footer li a{
+    color: whitesmoke;
+    font-size: 14px;
+    
+}
+.col-link .col-margin{
+    padding-top: 3%;
+}
+.col-icon{
+    margin-right: 30px;
+    cursor: pointer;
+}
+.col-icon-img{
+    margin-top: 40px;
+}
+.hover img:hover{
+    color: pink;
+}
+
+.APP{
+    max-width: 100px;
+    float: right;
+    padding-top: 30px;
+    margin-right: 30px;
+    cursor: pointer;
+}
+.list-style{
+    text-decoration: none;
+    list-style: none;
+    float: left;
+    text-align:right;
+    padding-top: 30px;
+    margin-left: 30px;
+    margin-right: 20px;
+    font-size: 18px;
+   
+
+}
+.col-md-top{
+    padding-top: 40px;
+    
+}
+
+.col-md-top li{
+    float: right;
+  
+}
+.col-md-top li a{
+    color: grey;
+}
+.col-md-top p{
+    font-size: 15px;
+    color: grey;
+}
